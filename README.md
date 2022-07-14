@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](Plan de travail 1bg.png)
+
 <!--
 **TheGuyWithoutH/TheGuyWithoutH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
