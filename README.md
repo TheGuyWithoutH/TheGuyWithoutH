@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://github.com/TheGuyWithoutH/TheGuyWithoutH/blob/main/Plan%20de%20travail%201bg.png?raw=true)
 
 <!--
@@ -16,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Welcome to my maker space 😄
+## Have fun discovering my projects
